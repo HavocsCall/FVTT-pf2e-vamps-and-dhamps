@@ -1,0 +1,76 @@
+{
+  "folder": "UuEWmEQa0MXHLI3x",
+  "img": "icons/sundries/books/book-red-exclamation.webp",
+  "name": "Supernatural Allure",
+  "system": {
+    "actionType": {
+      "value": "passive"
+    },
+    "actions": {
+      "value": null
+    },
+    "category": "ancestry",
+    "description": {
+      "value": "<p><strong>Frequency:</strong> Once per day</p><hr /><p>Your intense eyes lock with your chosen victim. You may attempt to allure them, with the effects of the @UUID[Compendium.pf2e.spells-srd.Item.vLA0q0WOK2YPuJs6] spell.</p>",
+      "gm": ""
+    },
+    "level": {
+      "value": 5
+    },
+    "prerequisites": {
+      "value": [
+        {
+          "value": "Moroi Heritage"
+        }
+      ]
+    },
+    "publication": {
+      "license": "ORC",
+      "remaster": true,
+      "title": "",
+      "authors": ""
+    },
+    "rules": [],
+    "traits": {
+      "rarity": "common",
+      "value": [
+        "vampire"
+      ],
+      "otherTags": []
+    },
+    "slug": null,
+    "_migration": {
+      "version": 0.943,
+      "previous": null
+    },
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "type": "feat",
+  "_stats": {
+    "compendiumSource": "Compendium.pf2e.feats-srd.Item.i0iyW1I7TylEgpV6",
+    "duplicateSource": "Item.QKQQyRIC6GEBijW9",
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "pf2e",
+    "systemVersion": "7.5.2",
+    "createdTime": 1760111949143,
+    "modifiedTime": 1760111949143,
+    "lastModifiedBy": "UPnjMbTUnpLyKVOr"
+  },
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0,
+    "UPnjMbTUnpLyKVOr": 3
+  },
+  "sort": 100000,
+  "_id": "4MNL0l09CdaIAs8Y",
+  "_key": "!items!4MNL0l09CdaIAs8Y"
+}

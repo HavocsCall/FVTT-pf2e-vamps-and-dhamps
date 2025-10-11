@@ -1,0 +1,120 @@
+{
+  "folder": "XWg50lfiqaPcUWu4",
+  "name": "Vrykolakas Vampire",
+  "type": "heritage",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.943,
+      "previous": {
+        "schema": 0.943,
+        "foundry": "13.348",
+        "system": "7.5.2"
+      }
+    },
+    "description": {
+      "value": "<p><strong>Revulsion:</strong> Ingredient of a physical curing elixir, such as witchhazel, wilow bark, or aloe. Ask your GM.</p><hr /><p>Bestial, associated with animals and plagues.</p><p></p><p>Burial Site Bound.</p><p>Drink Blood</p><p>all fours 30 feet speed</p><p>Change Shape - bestial/humanoid</p><p>At level 10, you gain @UUID[Item.U9GUJSfrhZ8jDcns]</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "",
+      "authors": "",
+      "license": "OGL",
+      "remaster": false
+    },
+    "rules": [
+      {
+        "category": "unarmed",
+        "damage": {
+          "base": {
+            "damageType": "slashing",
+            "dice": 1,
+            "die": "d4"
+          }
+        },
+        "group": "brawling",
+        "img": "systems/pf2e/icons/unarmed-attacks/claw.webp",
+        "key": "Strike",
+        "label": "PF2E.Weapon.Base.claw",
+        "range": null,
+        "slug": "claw",
+        "traits": [
+          "unarmed",
+          "agile",
+          "finesse"
+        ]
+      },
+      {
+        "category": "unarmed",
+        "damage": {
+          "base": {
+            "damageType": "piercing",
+            "dice": 1,
+            "die": "d6"
+          }
+        },
+        "group": "brawling",
+        "img": "systems/pf2e/icons/unarmed-attacks/fangs.webp",
+        "key": "Strike",
+        "label": "PF2E.BattleForm.Attack.Fangs",
+        "range": null,
+        "slug": "fangs",
+        "traits": [
+          "finesse",
+          "unarmed"
+        ]
+      },
+      {
+        "key": "GrantItem",
+        "uuid": "Item.EEGJVoKc2ARBeFNr"
+      },
+      {
+        "key": "RollOption",
+        "label": "PF2E.SpecificRule.Automaton.HunterAutomaton.ToggleLabel",
+        "option": "on-all-fours",
+        "toggleable": true
+      },
+      {
+        "key": "BaseSpeed",
+        "predicate": [
+          "on-all-fours"
+        ],
+        "selector": "land",
+        "value": 30
+      }
+    ],
+    "slug": "vrykolakas",
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "vampire"
+      ],
+      "rarity": "common"
+    },
+    "ancestry": {
+      "name": "Vampire",
+      "slug": "vampire",
+      "uuid": "Compendium.foundryvtt-pf2e-vamps-and-dhamps.ancestries.Item.vuVn3FeKHSIqJRJ8"
+    }
+  },
+  "_id": "IyisIx4uI8kGYPOg",
+  "img": "systems/pf2e/icons/default-icons/heritage.svg",
+  "sort": 600000,
+  "ownership": {
+    "default": 0,
+    "UPnjMbTUnpLyKVOr": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.IyisIx4uI8kGYPOg",
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "pf2e",
+    "systemVersion": "7.5.2",
+    "createdTime": 1760112600690,
+    "modifiedTime": 1760114626088,
+    "lastModifiedBy": "wNjbqrYK5HMnXFbK"
+  },
+  "_key": "!items!IyisIx4uI8kGYPOg"
+}

@@ -1,0 +1,59 @@
+{
+    "PF2eVampsandDhamps": {
+        "Trait": {
+            "JiangShi": "Jiang-Shi",
+            "Moroi": "Moroi",
+            "Strigoi": "Strigoi",
+            "Vetalarana": "Vetalarana",
+            "Vrykolakas": "Vrykolakas"
+        },
+        "Actions":{
+            "Abilities": {
+                "ChangeShapeVryk": "Change Chape Vrykolakas",
+                "ChangeShapeVrkDesc": "Change Shape Vrykolakas Description",
+                "DrinkBreath": "Drink Breath",
+                "DrinkBreathDesc": "Drink Breath Description",
+                "DrinkEssense": "Drink Essence",
+                "DrinkEssenseDesc": "Drink Essence Description",
+                "DrinkThoughts": "Drink Thoughts",
+                "DrinkThoughtsDesc": "Drink Thoughts Description",
+                "FeralPossession": "Feral Possession",
+                "FeralPossessionDesc": "Feral Possession Description",
+                "MentalRebirth": "Mental Rebirth",
+                "MentalRebirthDesc": "Mental Rebirth Description",
+                "MistEscape": "Mist Escape",
+                "MistEscapeDesc": "Mist Escape Description",
+                "OneMoreBreath": "One More Breath",
+                "OneMoreBreathDesc": "One More Breath Description",
+                "PlagueOfRats": "Plague of Rats",
+                "PlagueOfRatsDesc": "Plague of Rats Description",
+                "ShadowEscape": "Shadow Escape",
+                "ShadowEscapeDesc": "Shadow Escape Description"
+            }
+        },
+        "Ancestry": {
+            "Vampire": "Vampire",
+            "VampireDesc": "Vampire Description"
+        },
+        "Feats": {
+            "AncestryFeats": {
+                "BatsInstinct": "Bat's Instinct",
+                "BatsInstinctDesc": "Bat's Instinct Description",
+                "NightsStride": "Night's Stride",
+                "NightsStrideDesc": "Night's Stride Description",
+                "ClingingClimber": "Clinging Climber",
+                "ClingingClimberDesc": "Clinging Climber Description",
+                "ViciousFangs": "Vicious Fangs",
+                "ViciousFangsDesc": "Vicious Fangs Description",
+                "BatForm": "Bat Form",
+                "BatFormDesc": "Bat Form Description",
+                "Bloodsense": "Bloodsense",
+                "BloodsenseDesc": "Bloodsense Description",
+                "GreaterSatiation": "Greater Satiation",
+                "GreaterSatiationDesc": "Greater Satiation Description",
+                "RejuvenatingFeast": "Rejuvenating Feast",
+                "RejuvenatingFeastDesc": "Rejuvenating Feast Description"
+            }
+        }
+    }
+}

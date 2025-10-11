@@ -1,0 +1,154 @@
+{
+  "id": "foundryvtt-pf2e-vamps-and-dhamps",
+  "title": "PF2e Vamps and Dhamps",
+  "version": "#{VERSION}#",
+  "url": "#{URL}#",
+  "manifest": "#{MANIFEST}#",
+  "download": "#{DOWNLOAD}#",
+  "readme": "README.md",
+  "license": "LICENSE",
+  "changelog": "CHANGELOG.md",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "HavocsCall",
+      "url": "https://github.com/HavocsCall",
+      "discord": "HavocsCall",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true,
+    "foundryvtt-pf2e-vamps-and-dhamps": {
+      "pf2e-homebrew": {
+        "creatureTraits": {
+          "Jinag-shi": "PF2eVampsandDhamps.Trait.JiangShi",
+          "Moroi": "PF2eVampsandDhamps.Trait.Moroi",
+          "Strigoi": "PF2eVampsandDhamps.Trait.Strigoi",
+          "Vetalarana": "PF2eVampsandDhamps.Trait.Vetalarana",
+          "Vrykolakas": "PF2eVampsandDhamps.Trait.Vrykolakas"
+        },
+        "featTraits": {
+          "vampire": "PF2eVampsandDhamps.Ancestry.Vampire",
+          "Jinag-shi": "PF2eVampsandDhamps.Trait.JiangShi",
+          "Moroi": "PF2eVampsandDhamps.Trait.Moroi",
+          "Strigoi": "PF2eVampsandDhamps.Trait.Strigoi",
+          "Vetalarana": "PF2eVampsandDhamps.Trait.Vetalarana",
+          "Vrykolakas": "PF2eVampsandDhamps.Trait.Vrykolakas"
+        }
+      }
+    }
+  },
+  "packs": [
+    {
+      "name": "actions",
+      "label": "Actions",
+      "path": "packs/actions",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
+      "name": "ancestries",
+      "label": "Ancestries",
+      "path": "packs/ancestries",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
+      "name": "feats",
+      "label": "Feats",
+      "path": "packs/feats",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
+      "name": "features",
+      "label": "Features",
+      "path": "packs/features",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
+      "name": "heritages",
+      "label": "Heritages",
+      "path": "packs/heritages",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
+      "name": "journals",
+      "label": "Journals",
+      "path": "packs/journals",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "PF2e Vamps and Dhamps",
+      "sorting": "a",
+      "packs": [
+        "actions",
+        "ancestries",
+        "feats",
+        "features",
+        "heritages",
+        "journals"
+      ],
+      "color": "#880808"
+    }
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "7.5"
+        }
+      }
+    ]
+  },
+  "description": ""
+}
