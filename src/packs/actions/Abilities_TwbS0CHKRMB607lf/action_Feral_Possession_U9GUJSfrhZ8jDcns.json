@@ -9,7 +9,7 @@
       "previous": null
     },
     "description": {
-      "value": "<p><strong>Requirements:</strong> An animal of at least small size is within 100 feet.</p><p><strong>Trigger:</strong> The vampire is reduced to 0 HP.</p><hr /><p></p><p>You return at 1 HP and @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Drained 3} from hunger and the drained immediately begins to increase each day as outlined in the vampire ancestry.</p>",
+      "value": "<p><strong>Requirements:</strong> An animal of at least small size is within 100 feet.</p><p><strong>Trigger:</strong> You would die due to failing Void Survival.</p><hr /><p></p><p>You return at 1 HP and @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Drained 3} from hunger and the drained immediately begins to increase each day as outlined in the vampire ancestry.</p>",
       "gm": ""
     },
     "publication": {
@@ -48,9 +48,9 @@
     "exportSource": null,
     "coreVersion": "13.348",
     "systemId": "pf2e",
-    "systemVersion": "7.5.2",
+    "systemVersion": "7.6.2",
     "createdTime": 1760113482966,
-    "modifiedTime": 1760129281361,
+    "modifiedTime": 1760223522667,
     "lastModifiedBy": "wNjbqrYK5HMnXFbK"
   },
   "_id": "U9GUJSfrhZ8jDcns",

@@ -9,7 +9,7 @@
       "previous": null
     },
     "description": {
-      "value": "<p>Your wounds can heal themselves. You can cast Regenerate as a 7th-rank divine innate spell once per day. When cast this way, it loses the vitality trait and gains the void trait.</p>",
+      "value": "<p>Your wounds can heal themselves. You can cast @UUID[Compendium.pf2e.spells-srd.Item.2Vkd1IxylPceUAAF] as a 7th-rank divine innate spell once per day. When cast this way, it loses the vitality trait and gains the void trait.</p>",
       "gm": ""
     },
     "publication": {
@@ -62,10 +62,10 @@
     "exportSource": null,
     "coreVersion": "13.348",
     "systemId": "pf2e",
-    "systemVersion": "7.5.2",
+    "systemVersion": "7.6.2",
     "createdTime": 1760113309803,
-    "modifiedTime": 1760113309803,
-    "lastModifiedBy": "UPnjMbTUnpLyKVOr"
+    "modifiedTime": 1760401495749,
+    "lastModifiedBy": "wNjbqrYK5HMnXFbK"
   },
   "_id": "O5HVo8YAB1l5P9Wa",
   "_key": "!items!O5HVo8YAB1l5P9Wa"

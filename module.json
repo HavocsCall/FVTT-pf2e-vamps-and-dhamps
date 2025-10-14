@@ -1,17 +1,14 @@
 {
   "id": "foundryvtt-pf2e-vamps-and-dhamps",
   "title": "PF2e Vamps and Dhamps",
-  "version": "#{VERSION}#",
-  "url": "#{URL}#",
-  "manifest": "#{MANIFEST}#",
-  "download": "#{DOWNLOAD}#",
-  "readme": "README.md",
-  "license": "LICENSE",
+  "description": "A module for Foundry VTT that adds vampire and dhampir ancestries, heritages, and feats to the PF2e system.",
   "changelog": "CHANGELOG.md",
-  "compatibility": {
-    "minimum": "13",
-    "verified": "13"
-  },
+  "download": "#{DOWNLOAD}#",
+  "license": "LICENSE",
+  "manifest": "#{MANIFEST}#",
+  "readme": "README.md",
+  "url": "#{URL}#",
+  "version": "#{VERSION}#",
   "authors": [
     {
       "name": "HavocsCall",
@@ -20,6 +17,10 @@
       "flags": {}
     }
   ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
   "flags": {
     "canUpload": true,
     "foundryvtt-pf2e-vamps-and-dhamps": {
@@ -42,6 +43,14 @@
       }
     }
   },
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json",
+      "flags": {}
+    }
+  ],
   "packs": [
     {
       "name": "actions",
@@ -131,14 +140,6 @@
       "color": "#880808"
     }
   ],
-  "languages": [
-    {
-      "lang": "en",
-      "name": "English",
-      "path": "lang/en.json",
-      "flags": {}
-    }
-  ],
   "relationships": {
     "systems": [
       {
@@ -150,5 +151,6 @@
       }
     ]
   },
-  "description": ""
+  "scripts": [],
+  "styles": []
 }

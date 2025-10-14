@@ -1,7 +1,7 @@
 {
-  "folder": "FLRjEcAIRa5LpzMD",
+  "folder": "fdqPVzP5UkWiGvrJ",
   "img": "icons/sundries/books/book-red-exclamation.webp",
-  "name": "Charm Improvement 2",
+  "name": "Irresistible Allure",
   "system": {
     "actionType": {
       "value": "passive"
@@ -11,7 +11,7 @@
     },
     "category": "ancestry",
     "description": {
-      "value": "<p>The effects of your Supernatural Allure have the effects of an 8th rank Charm spell.</p>",
+      "value": "<p>The effects of your Supernatural Allure have the effects of a 4th rank Charm spell.</p>",
       "gm": ""
     },
     "level": {
@@ -23,10 +23,7 @@
           "value": "Moroi Heritage"
         },
         {
-          "value": "Supernatural Allure"
-        },
-        {
-          "value": "Allure Improvement"
+          "value": "Supernatural Charm"
         }
       ]
     },
@@ -44,7 +41,7 @@
       ],
       "otherTags": []
     },
-    "slug": null,
+    "slug": "irresistible-allure",
     "_migration": {
       "version": 0.943,
       "previous": null
@@ -61,14 +58,14 @@
   "type": "feat",
   "_stats": {
     "compendiumSource": "Compendium.pf2e.feats-srd.Item.i0iyW1I7TylEgpV6",
-    "duplicateSource": "Item.9LVLPUtFJ9aUhIpL",
+    "duplicateSource": "Item.QKQQyRIC6GEBijW9",
     "exportSource": null,
     "coreVersion": "13.348",
     "systemId": "pf2e",
-    "systemVersion": "7.5.2",
+    "systemVersion": "7.6.2",
     "createdTime": 1760111949143,
-    "modifiedTime": 1760111949143,
-    "lastModifiedBy": "UPnjMbTUnpLyKVOr"
+    "modifiedTime": 1760405445021,
+    "lastModifiedBy": "wNjbqrYK5HMnXFbK"
   },
   "effects": [],
   "flags": {},
@@ -77,6 +74,6 @@
     "UPnjMbTUnpLyKVOr": 3
   },
   "sort": 100000,
-  "_id": "yzGZUmXHQBfmRbQp",
-  "_key": "!items!yzGZUmXHQBfmRbQp"
+  "_id": "9LVLPUtFJ9aUhIpL",
+  "_key": "!items!9LVLPUtFJ9aUhIpL"
 }

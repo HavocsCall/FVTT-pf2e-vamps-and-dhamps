@@ -9,7 +9,7 @@
       "previous": null
     },
     "description": {
-      "value": "<p><strong>Requirements:</strong></p><p><strong>Trigger:</strong> The vampie is reduced to 0 HP.</p><hr /><p>Disperse into swarm of rats upon death.</p><p></p><p>You return at Drained 3 from hunger and the drained immediately begins to increase each day as outlined in Vampire Ancestry.</p>",
+      "value": "<p><strong>Restriction:</strong> The vampire's coffin must be established.</p><p><strong>Trigger:</strong> You would die due to failing Void Survival.</p><hr /><p>Disperse into swarm of rats upon death.</p><p></p><p>You return at Drained 3 from hunger and the drained immediately begins to increase each day as outlined in Vampire Ancestry.</p>",
       "gm": ""
     },
     "publication": {
@@ -48,9 +48,9 @@
     "exportSource": null,
     "coreVersion": "13.348",
     "systemId": "pf2e",
-    "systemVersion": "7.5.2",
+    "systemVersion": "7.6.2",
     "createdTime": 1760113482966,
-    "modifiedTime": 1760129281361,
+    "modifiedTime": 1760223656238,
     "lastModifiedBy": "wNjbqrYK5HMnXFbK"
   },
   "_id": "u16v9mFtIA45pXQW",

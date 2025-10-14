@@ -1,34 +1,47 @@
 {
     "PF2eVampsandDhamps": {
-        "Trait": {
-            "JiangShi": "Jiang-Shi",
-            "Moroi": "Moroi",
-            "Strigoi": "Strigoi",
-            "Vetalarana": "Vetalarana",
-            "Vrykolakas": "Vrykolakas"
-        },
         "Actions":{
             "Abilities": {
-                "ChangeShapeVryk": "Change Chape Vrykolakas",
-                "ChangeShapeVrkDesc": "Change Shape Vrykolakas Description",
-                "DrinkBreath": "Drink Breath",
-                "DrinkBreathDesc": "Drink Breath Description",
-                "DrinkEssense": "Drink Essence",
-                "DrinkEssenseDesc": "Drink Essence Description",
-                "DrinkThoughts": "Drink Thoughts",
-                "DrinkThoughtsDesc": "Drink Thoughts Description",
-                "FeralPossession": "Feral Possession",
-                "FeralPossessionDesc": "Feral Possession Description",
-                "MentalRebirth": "Mental Rebirth",
-                "MentalRebirthDesc": "Mental Rebirth Description",
-                "MistEscape": "Mist Escape",
-                "MistEscapeDesc": "Mist Escape Description",
-                "OneMoreBreath": "One More Breath",
-                "OneMoreBreathDesc": "One More Breath Description",
-                "PlagueOfRats": "Plague of Rats",
-                "PlagueOfRatsDesc": "Plague of Rats Description",
-                "ShadowEscape": "Shadow Escape",
-                "ShadowEscapeDesc": "Shadow Escape Description"
+                "ChangeShapeVryk": {
+                    "Name": "Change Chape (Vrykolakas)",
+                    "Description": "Change Shape Vrykolakas Description"
+                },
+                "DrinkBreath": {
+                    "Name": "Drink Breath",
+                    "Description": "Drink Breath Description"
+                },
+                "DrinkEssense": {
+                    "Name": "Drink Essence",
+                    "Description": "Drink Essence Description"
+                },
+                "DrinkThoughts": {
+                    "Name": "Drink Thoughts",
+                    "Description": "Drink Thoughts Description"
+                },
+                "FeralPossession": {
+                    "Name": "Feral Possession",
+                    "Description": "Feral Possession Description"
+                },
+                "MentalRebirth": {
+                    "Name": "Mental Rebirth",
+                    "Description": "Mental Rebirth Description"
+                },
+                "MistEscape": {
+                    "Name": "Mist Escape",
+                    "Description": "Mist Escape Description"
+                },
+                "OneMoreBreath": {
+                    "Name": "One More Breath",
+                    "Description": "One More Breath Description"
+                },
+                "PlagueOfRats": {
+                    "Name": "Plague of Rats",
+                    "Description": "Plague of Rats Description"
+                },
+                "ShadowEscape": {
+                    "Name": "Shadow Escape",
+                    "Description": "Shadow Escape Description"
+                }
             }
         },
         "Ancestry": {
@@ -37,23 +50,70 @@
         },
         "Feats": {
             "AncestryFeats": {
-                "BatsInstinct": "Bat's Instinct",
-                "BatsInstinctDesc": "Bat's Instinct Description",
-                "NightsStride": "Night's Stride",
-                "NightsStrideDesc": "Night's Stride Description",
-                "ClingingClimber": "Clinging Climber",
-                "ClingingClimberDesc": "Clinging Climber Description",
-                "ViciousFangs": "Vicious Fangs",
-                "ViciousFangsDesc": "Vicious Fangs Description",
-                "BatForm": "Bat Form",
-                "BatFormDesc": "Bat Form Description",
-                "Bloodsense": "Bloodsense",
-                "BloodsenseDesc": "Bloodsense Description",
-                "GreaterSatiation": "Greater Satiation",
-                "GreaterSatiationDesc": "Greater Satiation Description",
-                "RejuvenatingFeast": "Rejuvenating Feast",
-                "RejuvenatingFeastDesc": "Rejuvenating Feast Description"
+                "BatsInstinct": {
+                    "Name": "Bat's Instinct",
+                    "Description": "Bat's Instinct Description"
+                },
+                "NightsStride": {
+                    "Name": "Night's Stride",
+                    "Description": "Night's Stride Description"
+                },
+                "ClingingClimber": {
+                    "Name": "Clinging Climber",
+                    "Description": "Clinging Climber Description"
+                },
+                "ViciousFangs": {
+                    "Name": "Vicious Fangs",
+                    "Description": "Vicious Fangs Description"
+                },
+                "BatForm": {
+                    "Name": "Bat Form",
+                    "Description": "Bat Form Description"
+                },
+                "Bloodsense": {
+                    "Name": "Bloodsense",
+                    "Description": "Bloodsense Description"
+                },
+                "GreaterSatiation": {
+                    "Name": "Greater Satiation",
+                    "Description": "Greater Satiation Description"
+                },
+                "RejuvenatingFeast": {
+                    "Name": "Rejuvenating Feast",
+                    "Description": "Rejuvenating Feast Description"
+                },
+                "NoRestForTheDamned": {
+                    "Name": "No Rest for the Damned",
+                    "Description": "No Rest for the Damned Description"
+                },
+                "VoidRegeneration": {
+                    "Name": "Void Regeneration",
+                    "Description": "Void Regeneration Description"
+                }
+            },
+            "HeritageFeats": {
+                "JiangShi": {
+                    "JiangShiLore": {
+                        "Name": "Jiang-Shi Lore",
+                        "Description": "Jiang-Shi Lore Description"
+                    },
+                    "RigorMortis": {
+                        "Name": "Rigor Mortis",
+                        "Description": "Rigor Mortis Description"
+                    }
+                },
+                "Moroi": {
+
+                }
             }
+        },
+        "Trait": {
+            "JiangShi": "Jiang-Shi",
+            "Moroi": "Moroi",
+            "Nosferatu": "Nosferatu",
+            "Strigoi": "Strigoi",
+            "Vetalarana": "Vetalarana",
+            "Vrykolakas": "Vrykolakas"
         }
     }
 }

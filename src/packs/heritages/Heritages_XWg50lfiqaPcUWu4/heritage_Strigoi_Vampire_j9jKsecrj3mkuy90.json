@@ -13,7 +13,7 @@
       }
     },
     "description": {
-      "value": "<p><strong>Revulsion:</strong> Bright light</p><hr /><p>Shadow beings from the Netherworld</p><p></p><p>Sunlight Strigoi</p><p>Coffin-Bound</p><p>Drink Essence</p><p>At level 10, you gain @UUID[Compendium.foundryvtt-pf2e-vamps-and-dhamps.actions.Item.cXOBJ8kh0gZtGJBx]</p><p></p>",
+      "value": "<p><strong>Feeding Method:</strong> @UUID[Compendium.foundryvtt-pf2e-vamps-and-dhamps.actions.Item.q07o5pCh5CVhtX6W]</p><p><strong>Revulsion:</strong> Bright light</p><p><strong>Escape Death:</strong> At 10th level, you gain @UUID[Compendium.foundryvtt-pf2e-vamps-and-dhamps.actions.Item.cXOBJ8kh0gZtGJBx]{Shadow Escape}</p><hr /><p>Shadow beings from the Netherworld.</p><p><strong>Pros:</strong></p><p>Fangs</p><p><strong>Cons:</strong></p><p>Sunlight Strigoi</p><p>Coffin-Bound</p><p></p>",
       "gm": ""
     },
     "publication": {
@@ -77,8 +77,7 @@
     "traits": {
       "otherTags": [],
       "value": [
-        "shadow",
-        "vampire"
+        "shadow"
       ],
       "rarity": "common"
     },
@@ -102,9 +101,9 @@
     "exportSource": null,
     "coreVersion": "13.348",
     "systemId": "pf2e",
-    "systemVersion": "7.5.2",
+    "systemVersion": "7.6.2",
     "createdTime": 1760112600690,
-    "modifiedTime": 1760129719885,
+    "modifiedTime": 1760227996932,
     "lastModifiedBy": "wNjbqrYK5HMnXFbK"
   },
   "_key": "!items!j9jKsecrj3mkuy90"

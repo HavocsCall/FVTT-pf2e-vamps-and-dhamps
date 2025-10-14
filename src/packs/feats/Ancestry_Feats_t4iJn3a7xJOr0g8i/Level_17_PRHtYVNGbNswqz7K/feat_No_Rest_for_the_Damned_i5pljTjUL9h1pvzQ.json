@@ -1,6 +1,6 @@
 {
   "folder": "PRHtYVNGbNswqz7K",
-  "name": "Escape Death Improvement",
+  "name": "No Rest for the Damned",
   "type": "feat",
   "effects": [],
   "system": {
@@ -9,7 +9,7 @@
       "previous": null
     },
     "description": {
-      "value": "<p>When you return due to your heritage's Escape Death ability, you do not return @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR].</p>",
+      "value": "<p>When you return due to your heritage's Escape Death ability, your Drained value does not increase.</p>",
       "gm": ""
     },
     "publication": {
@@ -19,7 +19,7 @@
       "remaster": false
     },
     "rules": [],
-    "slug": "escape-death-improvement",
+    "slug": "no-rest-for-the-damned",
     "traits": {
       "otherTags": [],
       "value": [
@@ -62,9 +62,9 @@
     "exportSource": null,
     "coreVersion": "13.348",
     "systemId": "pf2e",
-    "systemVersion": "7.5.2",
+    "systemVersion": "7.6.2",
     "createdTime": 1760113309803,
-    "modifiedTime": 1760126799828,
+    "modifiedTime": 1760402451700,
     "lastModifiedBy": "wNjbqrYK5HMnXFbK"
   },
   "_id": "i5pljTjUL9h1pvzQ",

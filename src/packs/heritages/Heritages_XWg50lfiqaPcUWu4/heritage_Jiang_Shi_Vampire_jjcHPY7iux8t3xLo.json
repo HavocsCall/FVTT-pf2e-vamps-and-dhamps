@@ -13,7 +13,7 @@
       }
     },
     "description": {
-      "value": "<p><strong>Revulsion:</strong> Brandished mirror or ringing bells</p><p><strong>Escape Death:</strong> @UUID[Compendium.foundryvtt-pf2e-vamps-and-dhamps.actions.Item.JB0PJmi5ifizxZje]</p><hr /><p>Asian Vampires, paper head.</p><p></p><p>At 10th level, you gain your Escape Death ability.</p><p>You gain breathsense.</p><p>Drink Breath.</p><p></p>",
+      "value": "<p><strong>Feeding Method:</strong> @UUID[Compendium.foundryvtt-pf2e-vamps-and-dhamps.actions.Item.45qG1dMfitsS0MoK]</p><p><strong>Revulsion:</strong> Brandished mirror or ringing bells</p><p><strong>Escape Death:</strong> At 10th level, you gain @UUID[Compendium.foundryvtt-pf2e-vamps-and-dhamps.actions.Item.JB0PJmi5ifizxZje]</p><hr /><p>Asian Vampires, paper head.</p><p><strong>Pros:</strong></p><p>Breathsense.</p><p></p>",
       "gm": ""
     },
     "publication": {
@@ -50,9 +50,7 @@
     "slug": "jiang-shi-vampire",
     "traits": {
       "otherTags": [],
-      "value": [
-        "vampire"
-      ],
+      "value": [],
       "rarity": "common"
     },
     "ancestry": {
@@ -75,9 +73,9 @@
     "exportSource": null,
     "coreVersion": "13.348",
     "systemId": "pf2e",
-    "systemVersion": "7.5.2",
+    "systemVersion": "7.6.2",
     "createdTime": 1760112600690,
-    "modifiedTime": 1760127293460,
+    "modifiedTime": 1760227885907,
     "lastModifiedBy": "wNjbqrYK5HMnXFbK"
   },
   "_key": "!items!jjcHPY7iux8t3xLo"

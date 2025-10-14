@@ -13,7 +13,7 @@
       }
     },
     "description": {
-      "value": "<p><strong>Requirements</strong> A @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed}, @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{Paralyzed}, @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restrained}, @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Unconscious}, or willing creature is within your reach</p><hr /><p><strong>Effect</strong> You close in on that creature and drink its breath. If the victim is grabbed, this requires an @Check[athletics|defense:fortitude] check against the victim's Fortitude DC if you are Jiang-Shi or an @Check[occultism|defense:will] or @Check[religion|defense:will] check against the victim's Will DC if you are Vetalarana. This automatically succeeds for any of the other conditions. If you succeed, the creature becomes @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Drained 1}, and you gain temporary HP equal to the target's level that last for 10 minutes. Further uses against the target don't increase the drained condition or grant you more temporary HP.</p>",
+      "value": "<p><strong>Requirements</strong> A @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed}, @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{Paralyzed}, @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restrained}, @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Unconscious}, or willing creature is within your reach</p><hr /><p><strong>Effect</strong> You close in on that creature and drink its breath. If the victim is grabbed, this requires an @Check[occultism|defense:will] or @Check[religion|defense:will] check against the victim's Will DC. This automatically succeeds for any of the other conditions. If you succeed, the creature becomes @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Drained 1}, and you gain temporary HP equal to the target's level that last for 10 minutes. Further uses against the target don't increase the drained condition or grant you more temporary HP.</p>",
       "gm": ""
     },
     "publication": {
@@ -53,9 +53,9 @@
     "exportSource": null,
     "coreVersion": "13.348",
     "systemId": "pf2e",
-    "systemVersion": "7.5.2",
+    "systemVersion": "7.6.2",
     "createdTime": 1760113482966,
-    "modifiedTime": 1760129281361,
+    "modifiedTime": 1760203907973,
     "lastModifiedBy": "wNjbqrYK5HMnXFbK"
   },
   "_key": "!items!45qG1dMfitsS0MoK"

@@ -33,11 +33,6 @@
         "key": "GrantItem",
         "uuid": "Compendium.foundryvtt-pf2e-vamps-and-dhamps.features.Item.wphBtAesiHcw78UR",
         "allowDuplicate": false
-      },
-      {
-        "key": "GrantItem",
-        "uuid": "Compendium.foundryvtt-pf2e-vamps-and-dhamps.features.Item.UTTWdws7mSSCLl7j",
-        "allowDuplicate": false
       }
     ],
     "slug": "vampire",
@@ -149,9 +144,9 @@
     "exportSource": null,
     "coreVersion": "13.348",
     "systemId": "pf2e",
-    "systemVersion": "7.5.2",
+    "systemVersion": "7.6.2",
     "createdTime": 1760113151225,
-    "modifiedTime": 1760130192832,
+    "modifiedTime": 1760404981284,
     "lastModifiedBy": "wNjbqrYK5HMnXFbK"
   },
   "_id": "vuVn3FeKHSIqJRJ8",

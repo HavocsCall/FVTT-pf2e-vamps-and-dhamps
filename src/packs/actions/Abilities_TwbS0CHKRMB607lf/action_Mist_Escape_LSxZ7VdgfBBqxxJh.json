@@ -9,7 +9,7 @@
       "previous": null
     },
     "description": {
-      "value": "<p><strong>Restriction:</strong> The vampire's coffin must be established.</p><p><strong>Trigger:</strong> The Vampire is reduced to 0 HP.</p><hr /><p>Effect The Vampire turns to mist. They can take move actions towards their coffin even though they are at 0 HP. While at 0 HP in this form, the vampire is unaffected by further damage. They automatically return to their corporeal form, unconscious, if they reach their coffin or after 2 hours, whichever comes first.</p><p></p><p>You return at Drained 3 from hunger and the drained immediately begins to increase each day as outlined in Vampire Ancestry.</p>",
+      "value": "<p><strong>Restriction:</strong> The vampire's coffin must be established.</p><p><strong>Trigger:</strong> You would die due to failing Void Survival.</p><hr /><p><strong>Effect:</strong> The Vampire turns to mist. They can take move actions towards their coffin even though they are at 0 HP. While at 0 HP in this form, the vampire is unaffected by further damage. They automatically return to their corporeal form, unconscious, if they reach their coffin or after 2 hours, whichever comes first.</p><p></p><p>You return at 1 HP and add 3 Drained to your current Hunger and the drained value immediately begins to increase each day as outlined in Vampire Ancestry.</p>",
       "gm": ""
     },
     "publication": {
@@ -48,9 +48,9 @@
     "exportSource": null,
     "coreVersion": "13.348",
     "systemId": "pf2e",
-    "systemVersion": "7.5.2",
+    "systemVersion": "7.6.2",
     "createdTime": 1760113482966,
-    "modifiedTime": 1760129281361,
+    "modifiedTime": 1760402331180,
     "lastModifiedBy": "wNjbqrYK5HMnXFbK"
   },
   "_id": "LSxZ7VdgfBBqxxJh",

@@ -13,7 +13,7 @@
       }
     },
     "description": {
-      "value": "<p><strong>Revulsion:</strong> Openly sharing secrets</p><hr /><p>Psychic vampires, big heads.</p><p></p><p>You gain thoughtsense</p><p></p><p>Drink Thoughts</p><p>At level 10, you gain @UUID[Compendium.foundryvtt-pf2e-vamps-and-dhamps.actions.Item.r6ntEE0Ib9dTelCg]{Mental Rebirth}</p>",
+      "value": "<p><strong>Feeding Method:</strong> @UUID[Compendium.foundryvtt-pf2e-vamps-and-dhamps.actions.Item.rz0llfgpFyUDedjv]</p><p><strong>Revulsion:</strong> Openly sharing secrets</p><p><strong>Escape Death:</strong> At 10th level, you gain @UUID[Compendium.foundryvtt-pf2e-vamps-and-dhamps.actions.Item.r6ntEE0Ib9dTelCg]</p><hr /><p>Psychic vampires, big heads.</p><p><strong>Pros:</strong></p><p>Thoughtsense.</p>",
       "gm": ""
     },
     "publication": {
@@ -25,12 +25,12 @@
     "rules": [
       {
         "key": "GrantItem",
-        "uuid": "Compendium.foundryvtt-pf2e-vamps-and-dhamps.features.Item.8jSq1DPANWLoh7fG",
+        "uuid": "Compendium.foundryvtt-pf2e-vamps-and-dhamps.actions.Item.rz0llfgpFyUDedjv",
         "allowDuplicate": false
       },
       {
         "key": "GrantItem",
-        "uuid": "Compendium.foundryvtt-pf2e-vamps-and-dhamps.actions.Item.rz0llfgpFyUDedjv",
+        "uuid": "Compendium.foundryvtt-pf2e-vamps-and-dhamps.features.Item.8jSq1DPANWLoh7fG",
         "allowDuplicate": false
       },
       {
@@ -43,15 +43,15 @@
             ]
           }
         ],
-        "uuid": "Compendium.foundryvtt-pf2e-vamps-and-dhamps.actions.Item.r6ntEE0Ib9dTelCg"
+        "uuid": "Compendium.foundryvtt-pf2e-vamps-and-dhamps.actions.Item.r6ntEE0Ib9dTelCg",
+        "allowDuplicate": false,
+        "reevaluateOnUpdate": true
       }
     ],
     "slug": "vetalarana-vampire",
     "traits": {
       "otherTags": [],
-      "value": [
-        "vampire"
-      ],
+      "value": [],
       "rarity": "common"
     },
     "ancestry": {
@@ -74,9 +74,9 @@
     "exportSource": null,
     "coreVersion": "13.348",
     "systemId": "pf2e",
-    "systemVersion": "7.5.2",
+    "systemVersion": "7.6.2",
     "createdTime": 1760112600690,
-    "modifiedTime": 1760129762804,
+    "modifiedTime": 1760228021896,
     "lastModifiedBy": "wNjbqrYK5HMnXFbK"
   },
   "_key": "!items!W7DoWxuSkrZAVTZF"

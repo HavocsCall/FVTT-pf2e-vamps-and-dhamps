@@ -4,14 +4,14 @@
   "name": "Turn to Mist",
   "system": {
     "actionType": {
-      "value": "passive"
+      "value": "action"
     },
     "actions": {
-      "value": null
+      "value": 2
     },
     "category": "ancestry",
     "description": {
-      "value": "<p>Vapor form thing</p>",
+      "value": "<p>Once per day, turn to mist, gaining the effects of @UUID[Compendium.pf2e.spells-srd.Item.V8wXOsoejQhe6CyG].</p>",
       "gm": ""
     },
     "level": {
@@ -38,7 +38,7 @@
       ],
       "otherTags": []
     },
-    "slug": null,
+    "slug": "turn-to-mist",
     "_migration": {
       "version": 0.943,
       "previous": null
@@ -59,10 +59,10 @@
     "exportSource": null,
     "coreVersion": "13.348",
     "systemId": "pf2e",
-    "systemVersion": "7.5.2",
+    "systemVersion": "7.6.2",
     "createdTime": 1760111949143,
-    "modifiedTime": 1760111949143,
-    "lastModifiedBy": "UPnjMbTUnpLyKVOr"
+    "modifiedTime": 1760405305668,
+    "lastModifiedBy": "wNjbqrYK5HMnXFbK"
   },
   "effects": [],
   "flags": {},
