@@ -1,1 +1,1 @@
-https://github.com/HavocsCall/foundryvtt-pf2e-vamps-and-dhamps/releases/latest/download/module.json
+https://github.com/HavocsCall/FVTT-pf2e-vamps-and-dhamps/releases/latest/download/module.json
